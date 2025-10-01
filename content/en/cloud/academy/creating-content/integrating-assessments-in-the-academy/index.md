@@ -181,7 +181,7 @@ Layer5 Academy supports three question formats:
         # True/False:
       - id: "question2"
         text: "This is a true/false question"
-        type: "single-answer"            # choose the type
+        type: "true-false"            # choose the type
         marks: 1
         options:
           - id: "true"
